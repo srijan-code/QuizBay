@@ -1,5 +1,12 @@
 # QuizBay
 
+**Description**
+
+A quiz app in which multiple users can login, register and play multiple contests of their choice.
+The quiz question can be audio, video, text or image.
+The data is fetched from backend through API 's which is implemented using Spring Boot, MongoDB and PostgreSQL and player can play a contest within a particular duration. 
+After the player finishes the contest, leaderboard gets updated with the rankings and after submission of each question an ad will be displayed to user.
+
 **Login Screen**
 
 <img src="https://user-images.githubusercontent.com/68854742/187078418-16ce0d15-542b-4723-9c0d-e9a97140c7e7.jpeg" width="300" height="500">
