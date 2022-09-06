@@ -21,6 +21,7 @@
 <img src="https://user-images.githubusercontent.com/68854742/187078404-2db2e8ae-0174-4d86-b69a-164078b0a160.jpeg" width="300" height="500">
 
 **Quiz Screen**
+
 <img src="https://user-images.githubusercontent.com/68854742/187078403-87a7fd5b-796c-4d52-8b5e-a0d289648ee0.jpeg" width="300" height="500">
 
 **LeaderBoard**
